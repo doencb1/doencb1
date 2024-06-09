@@ -8,6 +8,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/rounded_dark_button"
-        android:text="Answer"
+        android:text="Answera"
         android:textColor="@color/white" />
 </LinearLayout>
